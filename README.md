@@ -5,8 +5,8 @@ This Markdown file provides a brief introduction to essential Pandas concepts. F
 Pandas is a powerful Python library for data analysis and manipulation. It offers high-performance, easy-to-use data structures and data analysis tools.
 
 ## Core Data Structures
-Series: One-dimensional array-like object containing data of a single data type.
-DataFrame: Two-dimensional, size-mutable, tabular data structure with labeled axes (rows and columns).
+* Series: One-dimensional array-like object containing data of a single data type.
+* DataFrame: Two-dimensional, size-mutable, tabular data structure with labeled axes (rows and columns).
 
 ## Advantages of Pandas
 Speed and Efficiency: Optimized for large datasets.
